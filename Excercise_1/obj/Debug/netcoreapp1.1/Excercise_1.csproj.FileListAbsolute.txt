@@ -1,0 +1,9 @@
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\bin\Debug\netcoreapp1.1\Excercise_1.deps.json
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\bin\Debug\netcoreapp1.1\Excercise_1.runtimeconfig.json
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\bin\Debug\netcoreapp1.1\Excercise_1.runtimeconfig.dev.json
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\bin\Debug\netcoreapp1.1\Excercise_1.dll
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\bin\Debug\netcoreapp1.1\Excercise_1.pdb
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\obj\Debug\netcoreapp1.1\Excercise_1.csproj.CoreCompileInputs.cache
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\obj\Debug\netcoreapp1.1\Excercise_1.AssemblyInfo.cs
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\obj\Debug\netcoreapp1.1\Excercise_1.dll
+C:\Users\or15y\RiderProjects\Excercise_1\Excercise_1\obj\Debug\netcoreapp1.1\Excercise_1.pdb
